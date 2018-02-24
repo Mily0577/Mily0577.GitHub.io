@@ -17,7 +17,7 @@ text_color_theme: default #eg: default | dark | forest | ocean | chocolate | ora
 baseurl: /
 title: Mily's Dust Planet
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+    Stay foolish, stay naive.
 
 nav_lists:
   - titles:
@@ -43,8 +43,8 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Someone
-  # email:  #your Email address e.g. someone@site.com
+  name: Mily
+   email:  mily.zlc@gmail.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
   # github:  #your GitHub username
@@ -91,7 +91,7 @@ paginate_path: /blog/page:num
 
 ## Post excerpts ##
 excerpt_separator: <!--more-->
-excerpt_type: text # text | html
+excerpt_type: html # text | html
 
 ## Build ##
 markdown: kramdown
