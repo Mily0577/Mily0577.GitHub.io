@@ -27,9 +27,9 @@ nav_lists:
       zh-Hant: 關於
     url: /about.html
 
-# paths:
+ paths:
 #   base: /
-#   home: /
+   home: https://github.com/Mily0577/Mily0577.GitHub.io
 #   all:  /all.html
 #   rss:  /feed.xml
 
